@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Music Split Merge</string>
+    <string name="edit_test">Test field</string>
+    <string name="button_test">Test button</string>
 </resources>
